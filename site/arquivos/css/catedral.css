@@ -1,0 +1,639 @@
+.barraFixa{
+	width:100%; 
+	height:44px;
+	background:#eca00b;
+	color:#000;
+	position:fixed;
+	top:0px; 
+	left:0px;
+	z-index: 1030;
+	padding-top:10px;
+}
+
+.barraTxt1{
+	text-align:left;
+}
+
+.barraTxt2{
+	text-align:left;
+	color:#FFF;
+}
+
+.barraTxt3{
+	text-align:right;
+}
+
+.mg1{
+	margin-left:35px;
+}
+
+.mg3{
+	margin-right:5px;
+}
+
+.topo{
+	width:100%; 
+	height:91px;
+	background:#FFF;
+	margin-top:44px;
+}
+
+.logo{
+	text-align:left;
+}
+
+.imgLogo{
+	width:285px;
+	height:84px;
+}
+
+/*
+@media screen and (min-width: 451px) and (max-width: 1000px) {
+	.imgLogo{
+		width:200px;
+		height:59px;
+	}
+}
+*/
+.menu{
+	text-align:right;
+	padding-top:20px;
+	padding-right:50px;
+}
+
+.link2{
+	color:#333;
+}
+
+.link2 a:hover{
+	color:#333;
+	text-decoration:none;
+}
+
+.linksMenu{
+	text-align:left;
+}
+
+.btEmpresa{
+	position:relative;
+	top:28px;
+	width:112px;
+	height:50px;
+}
+
+.btLoja{
+	position:relative;
+	top:28px;
+}
+
+.btNoticias{
+	position:relative;
+	top:28px;
+	width:206px;
+	height:50px;
+}
+
+.btContato{
+	position:relative;
+	top:28px;
+	width:99px;
+	height:50px;
+}
+
+.btGoogle{
+	position:relative;
+	top:23px;
+}
+
+.btFacebook{
+	position:relative;
+	top:23px;
+}
+
+.informativo{
+	width:100%;
+	height:100px;
+	background-color:#eca00b;
+	text-align:center;
+}
+
+.pInformativo1{
+	font-size:36px; 
+	color:#FFF; 
+	position:relative; 
+	top:25px;
+}
+
+.pInformativo1B{
+	font-size:18px; 
+	color:#FFF; 
+	position:relative; 
+	top:25px;
+}
+
+.pInformativo2{
+	position:relative; 
+	top:15px;
+}
+
+.pInformativo3{
+	font-size:36px; 
+	color:#FFF; 
+	position:relative; 
+	top:25px;
+}
+
+.pInformativo3B{
+	font-size:21px; 
+	color:#FFF; 
+	position:relative; 
+	top:35px;
+}
+
+
+.txtInformativo1{
+	font-size:24px; 
+	color:#000;
+}
+
+.txtInformativo1B{
+	font-size:18px; 
+	color:#000;
+}
+
+.txtInformativo2{
+	margin-left:28px; 
+	font-size:18px; 
+	color:#FFF;
+}
+
+.txtInformativo2B{
+	margin-left:10px; 
+	font-size:16px; 
+	color:#FFF;
+}
+
+.informativoSeta{
+	margin-left:20px; 
+	position:relative; 
+	top:-3px;
+}
+
+.tamanhoSeta{
+	width:53px;
+	height:38px;
+}
+
+.tamanhoSeta1{
+	width:43px;
+	height:31px;
+}
+
+.tamanhoInfo{
+	width:604px;
+	height:1027px;
+}
+
+.banner{
+	width:100%;
+	height:600px;
+	color:#FFF;
+	background-image: url(../img/banner.jpg);
+	background-repeat: no-repeat;
+	-moz-background-size: 100% 100%;
+	-webkit-background-size: 100% 100%;
+	background-size: 100% 100%;
+	background-size:cover;
+	text-align:center;
+}
+
+.p1{
+	font-size:48px;
+	font-weight:bold;
+	margin-top:100px;
+}
+
+.p2{
+	font-size:36px;
+}
+
+.p3{
+	margin-top:20px;
+}
+
+.txtBanner{
+	font-size:24px;
+	font-weight:bold;
+	margin-top:50px;
+}
+
+.rodapeBanner{
+	background-color:#cd9019;
+	width:100%;
+	height:62px;
+	color:#000;
+	padding-top:10px;
+	padding-bottom:8px;
+	font-size:18px;
+}
+
+.brown{
+	background:#c46f16; 
+	font-size:14px; 
+	color:#FFF;
+	padding:10px;
+	text-align:center;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+ 	border-radius:7px;
+	width:80%;
+}
+
+.fontSize1{
+	font-size:18px;
+}
+
+.form1{
+	margin-top:5px;
+}
+
+.segmento a{
+	color:#000;
+	text-decoration:none;
+}
+
+.segmento a:hover{
+	color:#000;
+	text-decoration:none;
+}
+
+.inputCadastrar{
+	width:50%;
+	float:left;
+}
+
+.btCadastrar{
+	background:#666; 
+	color:#FFF; 
+	border:none;
+	position:relative;
+	top:1px;
+	margin-left:5px;
+	float:left; 
+}
+
+.titulo, .titulo4, .tituloEmpresa{
+	font-size:36px;
+	font-weight:bold;
+	margin-top:30px;
+}
+
+.titulo2{
+	font-size:18px;
+	font-weight:bold;
+}
+
+.titulo3{
+	font-size:21px;
+}
+
+.titulo5{
+	font-size:18px;
+	text-align:center;
+}
+
+.inputMg1{
+	margin-top:30px;
+	width:70%;
+	margin-left:15%;
+}
+
+.inputMg2{
+	margin-top:20px;
+	width:70%;
+	margin-left:15%;
+}
+
+.inputMg3{
+	margin-top:20px;
+}
+
+.mg2{
+	margin-top:40px;
+}
+
+.mg4{
+	margin-top:60px;
+}
+
+.mg5{
+	margin-top:80px;
+}
+
+.suporteExclusivo{
+	width:100%;
+	height:360px;
+	color:#FFF;
+	background-image: url(../img/suporte.jpg);
+	background-repeat: no-repeat;
+	-moz-background-size: 100% 100%;
+	-webkit-background-size: 100% 100%;
+	background-size: 100% 100%;
+	text-align:center;
+}
+
+.telefonista{
+	position:relative; 
+	top:-40px;
+}
+
+
+.depoimentos{
+	width:100%;
+	height:280px;
+}
+
+.texto1{
+	font-size:21px;
+	text-align:justify;
+	color:#39383b;
+	margin-top:40px;
+}
+
+.texto2{
+	width:100%;
+	text-align:center;
+	margin-top:20px;
+}
+
+.iconPessoa{
+	width:45px; 
+	height:100%; 
+	display:inline-block; 
+	vertical-align:top;
+}
+
+.pessoaDepoimento{
+	height:100%; 
+	display:inline-block; 
+	vertical-align:top; 
+	margin-left:12px;
+	position:relative;
+	margin-left:-30px;
+	margin-top:-30px;
+}
+
+.nomeDepoimento{
+	color:#c46f16; 
+	font-size:20px; 
+	text-align:left;
+}
+
+.clientes{
+	width:100%; 
+	height:auto;
+	margin-top:20px;
+}
+
+.logos{
+	margin-bottom:30px;
+}
+
+.logoImg{
+	max-width: 142px;   /* Máximo da largura da imagem */
+    width: 100%;
+    max-height: 142px;  /* Máximo da altura da imagem */
+    min-height: auto;   /* Mínimo da altura, por padrão "auto" */
+    background-size:100%;
+    background-repeat: no-repeat;
+}
+
+.contato{
+	width:100%;
+	background:#eca00b;
+	margin-top:40px;
+	padding-bottom:10px;
+}	
+
+.btFalarEspecialista{
+	width:100%;
+	font-size:20px;
+}
+
+.cor1{
+	color:#FFF;
+}
+
+.cor2{
+	color:#000;
+}
+
+.cor3{
+	color:#c46f16;
+}
+
+.endereco{
+	width:100%;
+	color:#FFF;
+	background:#67666b;
+	padding-top:20px;
+	padding-bottom:10px;
+}
+
+a {
+	color: #FFF;
+	text-decoration:none;
+}
+
+a:hover {
+	color: #FFF;
+	text-decoration: none;
+}
+
+
+.mapa{
+	border:#eca00b 2px solid; 
+	margin-top:10px;
+}
+
+.rodape{
+	width:100%;
+	color:#FFF;
+	background:#333;
+	padding-top:15px;
+	padding-bottom:10px;
+}
+
+.empresa{
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+.painel{
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+.produtos{
+	margin-top:50px;
+}
+
+.mensagemContato{
+	width:680px;
+	resize:none;
+}
+
+.fonesContato{
+	background:#eca00b; 
+	color:#000; 
+	width:85%; 
+	height:auto; 
+	padding:10px; 
+	margin-left:50px; 
+	font-size:14px;
+}
+
+.fonesContato2{
+	width:43%; 
+	float:left; 
+	border-right:1px solid #fff;
+}
+
+.fonesContato3{
+	width:57%; 
+	float:left; 
+}
+
+.dotbr1{
+	margin-right:5px;
+}
+
+.dotbr2{
+	margin-left:60px; 
+	margin-right:5px;
+}
+
+.dotbr3{
+	margin-right:5px;
+	margin-left:2px;
+}
+
+.dotbr4{
+	margin-right:5px;
+	margin-left:-2px;
+}
+
+.dotbr5{
+	margin-right:7px;
+	margin-left:12px;
+}
+
+.pContato{
+	width:90%; 
+	text-align:center; 
+	margin-left:10px;
+}
+
+.pContato2{
+	width:90%; 
+	text-align:center; 
+}
+
+.empresaImg{
+	max-width: 530px;   /* Máximo da largura da imagem */
+    width: 100%;
+    max-height: 248px;  /* Máximo da altura da imagem */
+    min-height: auto;   /* Mínimo da altura, por padrão "auto" */
+}
+
+.nomeProduto{
+	font-size:14px;
+	font-weight:bold;
+	margin-top:3px;
+}
+
+.quantidade{
+	position:relative; 
+	top:7px; 
+	margin-left:25%;
+	float:left;
+}
+
+.qtdNumero{
+	text-align:center; 
+	font-size:14px;  
+	margin-left:10px; 
+	float:left;
+}
+
+.btOrcamento{
+	margin-left:20%;
+	float:left;
+}
+
+.mgProduto{
+	margin-bottom:20px;
+}
+
+.erros{
+	width:100%;
+	height:250px;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+.teste{
+	color:#FFF; 
+	font-size:14px; 
+	font-weight:bold; 
+	margin-left:30px; 
+	background-color:#eca00b;
+}
+
+.barraMenu{
+	width:100%; 
+	height:91px;
+	background:#FFF;
+	margin-top:50px;
+}
+
+.bordaBarraMenu{
+	border-bottom:#fcc715 2px solid;
+}
+
+.menuMain{
+	width:100%;
+	position:relative; 
+	top:15px;
+}
+
+.menuMain li{position:relative; float:left; font-size:18px; color:#333;}
+
+.menuMain li a{color:#333; text-decoration:none; padding:5px 10px;}
+
+.menuMain li ul li{display:block; width:335px; height:auto; padding-bottom:3px; padding-top:3px; background-color:#FFF;}
+
+.menuMain li ul li a{color:#333;}
+
+.menuDrop{
+	float: left; 
+	width: 70%;
+}
+
+.certificado{
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+.NFeCatedral{
+	width: 240px; 
+	height:226px;
+}
+
+.imgVideo{margin-right:10px; width:120px; height:66px;}
+.titulo4{font-size:18px; text-align:left;}
+.tituloClientes{font-size:18px; font-weight:bold; text-align:center;}
+.titulo4 a:link{color:#666; text-decoration:none; font-size:14px;}
+.titulo4 a:hover{color:#666; text-decoration:none; font-size:14px;}
+.titulo4 a:visited{color:#666; text-decoration:none; font-size:14px;}
+.titulo4 a:active{color:#666; text-decoration:none; font-size:14px;}

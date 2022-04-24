@@ -1,0 +1,449 @@
+.barraFixa{
+	width:100%; 
+	height:auto;
+	text-align:center;
+	background:#eca00b;
+	color:#000;
+	position:fixed;
+	top:0px; 
+	left:0px;
+	z-index: 1030;
+	padding-bottom:5px
+}
+
+.barraTxt1{
+	text-align:center
+}
+
+.barraTxt2{
+	text-align:center;
+	color:#FFF;
+}
+
+.barraTxt3{
+	text-align:center
+}
+
+.posicaoMenu{
+	text-align:center;
+	position:relative;
+	margin-top:10px;
+	margin-left:-40px;
+}
+
+.mg1{
+	margin-left:35px;
+}
+
+.topo{
+	width:100%; 
+	height:60px;
+	/*margin-top:115px;*/
+	margin-top:80px;
+}
+
+.logo{
+	text-align:left;
+}
+
+.imgLogo{
+	width:200px;
+	height:59px;
+	margin-left:3px;
+}
+
+.posicaoMenuMobile{
+	position:relative; 
+	top:-55px;
+}
+
+.menu{
+	text-align:center;
+	padding-top:3px;
+	padding-right:10px;
+}
+
+.linksMenu{
+	text-align:center;
+}
+
+.btEmpresa{
+	position:relative;
+	top:-3px;
+	width:85px;
+	height:38px;
+}
+
+.btLoja{
+	position:relative;
+	top:-3px;
+}
+
+.btNoticias{
+	position:relative;
+	top:-3px;
+	width:156px;
+	height:38px;
+}
+
+.btContato{
+	position:relative;
+	top:-3px;
+	width:75px;
+	height:38px;
+}
+
+.btGoogle{
+	position:relative;
+	top:-23px;
+}
+
+.btFacebook{
+	position:relative;
+	top:-23px;
+}
+
+.banner{
+	width:100%;
+	height:auto;
+	color:#FFF;
+	background-image: url(../img/banner.jpg);
+	background-repeat: no-repeat;
+	-moz-background-size: 100% 100%;
+	-webkit-background-size: 100% 100%;
+	background-size: 100% 100%;
+	background-size:cover;
+	text-align:center;
+}
+
+.informativo{
+	width:100%;
+	height:160px;
+	background-color:#eca00b;
+	text-align:center;
+}
+
+.pInformativo1{
+	font-size:18px; 
+	color:#FFF; 
+	position:relative; 
+	top:8px;
+}
+
+.pInformativo2{
+	position:relative; 
+	top:5px;
+}
+
+.pInformativo3{
+	font-size:18px; 
+	color:#FFF; 
+	position:relative;
+	top:0px;
+}
+
+.txtInformativo1{
+	font-size:14px; 
+	color:#000;
+	font-weight:bold;
+}
+
+.txtInformativo2{
+	margin-left:0px; 
+	font-size:14px; 
+	color:#FFF;
+	font-weight:bold;
+}
+
+.informativoSeta{
+	margin-left:20px; 
+	position:relative; 
+	top:-3px;
+}
+
+.tamanhoSeta{
+	width:26px;
+	height:19px;
+}
+
+.tamanhoInfo{
+	width:604px;
+	height:1027px;
+}
+
+.tamanhoInfo{
+	width:302px;
+	height:513px;
+}
+
+.p1{
+	font-size:36px;
+	font-weight:bold;
+	margin-top:50px;
+}
+
+.p2{
+	font-size:30px;
+}
+
+.empresa{
+	margin-top:0px;
+	margin-bottom:50px;
+}
+
+.rodapeBanner{
+	background-color:#cd9019;
+	width:100%;
+	height:120px;
+	color:#000;
+	padding-top:10px;
+	padding-bottom:6px;
+	font-size:18px;
+}
+
+.fontSize1{
+	font-size:16px;
+}
+
+.form1{
+	margin-top:0px;
+}
+
+.inputCadastrar{
+	width:50%;
+	float:left;
+	margin-left:30px;
+}
+
+.titulo{
+	font-size:24px;
+	font-weight:bold;
+	margin-top:30px;
+}
+
+.titulo4{
+	font-size:24px;
+	font-weight:bold;
+	margin-top:-40px;
+}
+
+.titulo2{
+	font-size:18px;
+	font-weight:bold;
+}
+
+.tituloEmpresa{
+	font-size:24px;
+	font-weight:bold;
+	margin-top:-20px;
+}
+
+.titulo5{
+	font-size:14px;
+	text-align:center;
+	font-weight:500;
+}
+
+.inputMg1{
+	margin-top:20px;
+}
+
+.inputMg2{
+	margin-top:10px;
+}
+
+.mg2{
+	margin-top:15px;
+}
+
+.suporteExclusivo{
+	width:100%;
+	height:auto;
+	color:#FFF;
+	background-image: url(../img/suporte.jpg);
+	background-repeat: no-repeat;
+	-moz-background-size: 100% 100%;
+	-webkit-background-size: 100% 100%;
+	background-size: 100% 100%;
+	background-size:cover;
+	text-align:center;
+}
+
+.titulo3{
+	font-size:18px;
+	text-align:justify;
+}
+
+.telefonista{
+	position:relative; 
+	top:0px;
+}
+
+.depoimentos{
+	width:100%;
+	height:auto;
+}
+
+
+.pessoaDepoimento{
+	height:100%; 
+	display:inline-block; 
+	vertical-align:top; 
+	margin-left:12px;
+	position:relative;
+	margin-left:-30px;
+	margin-top:-30px;
+	z-index:5;
+}
+
+.logoImg{
+	max-width: 142px;   /* Máximo da largura da imagem */
+    width: 100%;
+    max-height: 142px;  /* Máximo da altura da imagem */
+    min-height: auto;   /* Mínimo da altura, por padrão "auto" */
+    background-size:100%;
+    background-repeat: no-repeat;
+	padding-top:15px;
+}
+
+.btFalarEspecialista{
+	width:100%;
+	font-size:14px;
+}
+
+.mensagemContato{
+	width:330px;
+	resize:none;
+}
+
+.fonesContato{
+	background:#eca00b; 
+	color:#FFF; 
+	width:85%; 
+	height:auto; 
+	padding:10px; 
+	margin-left:25px; 
+	font-size:14px;
+}
+
+.fonesContato2{
+	width:50%; 
+	float:left; 
+	border-right:1px solid #fff;
+}
+
+.fonesContato3{
+	width:50%; 
+	float:left; 
+}
+
+.pContato{
+	width:90%; 
+	text-align:center; 
+	margin-left:0px;
+	font-size:12px;
+}
+
+.pContato2{
+	width:90%; 
+	text-align:center;
+	font-size:12px;
+	margin-top:-20px;
+}
+
+.dotbr2{
+	margin-left:10px; 
+	margin-right:3px;
+}
+
+.dotbr5{
+	margin-right:7px;
+	margin-left:2px;
+}
+
+.mg5{
+	margin-top:-15px;
+}
+
+.imgMP{
+	max-width: 308px;
+    width: 100%;
+    max-height: auto;
+    min-height: auto;
+}
+
+.imgEFC{
+	max-width: 308px;
+    width: 100%;
+    max-height: auto;
+    min-height: auto;
+}
+
+.imgNFCE{
+	max-width: 308px;
+    width: 100%;
+    max-height: auto;
+    min-height: auto;
+}
+
+.imgGorjeta{
+	max-width: 308px;
+    width: 100%;
+    max-height: auto;
+    min-height: auto;
+}
+
+.barraMenu{
+	width:100%; 
+	height:65px;
+	background:#FFF;
+	margin-top:120px;
+}
+
+.menuMain{
+	width:350px;
+	position:fixed; 
+	top:180px;
+	right:0px;
+	background-color:#fff;
+	padding-bottom:5px;
+	text-align:right;
+	z-index:99999999;
+}
+
+.menuMain li{position:relative; float:right; font-size:16px; color:#333; width:250px; background-color:#fff;}
+
+.menuMain li a{color:#333; text-decoration:none; padding:5px 10px;}
+
+.menuMain li ul li{display:block; width:335px; height:auto; padding-bottom:3px; padding-top:3px; background-color:#eee; position:relative; color:#333; left:-15px; right:-15px;}
+
+.menuMain li ul li a{color:#333;}
+
+/*.menuMain li ul li a{color:#333;}*/
+
+.menuDrop{
+	width:100%;
+	position:absolute;
+	top:125px;
+}
+
+.certificado{
+	margin-top:20px;
+	margin-bottom:50px;
+}
+
+.mgNFeCatedral{
+	padding-bottom:50px;
+}
+
+.NFeCatedral{
+	width: 209px; 
+	height:199px;
+}
+
+.imgVideo{margin-right:10px; width:50px; height:28px;}
+.titulo4{font-size:18px; text-align:left; padding-bottom:20px; padding-top:20px;}
+.titulo4 a:link{color:#666; text-decoration:none; font-size:14px;}
+.titulo4 a:hover{color:#666; text-decoration:none; font-size:14px;}
+.titulo4 a:visited{color:#666; text-decoration:none; font-size:14px;}
+.titulo4 a:active{color:#666; text-decoration:none; font-size:14px;}
